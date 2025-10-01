@@ -24,9 +24,6 @@ Follow these steps to get the project running on your local machine:
 git clone https://github.com/Ankitkumarrishu/Al-exa_Review.git
 cd Al-exa_Review
 =======
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
-cd Amazon-Alexa-Reviews
->>>>>>> 563b6ffdd942035719fc1f3f58e4e307f48bcdd4
 ```
 
 ### 2️⃣ Create & activate a Conda environment
@@ -107,7 +104,3 @@ Amazon-Alexa-Reviews/
 
 ---
 
-## 📌 License
-
-This project is **open source** and available under the MIT License.
->>>>>>> 563b6ffdd942035719fc1f3f58e4e307f48bcdd4
