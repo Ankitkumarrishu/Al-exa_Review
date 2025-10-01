@@ -20,10 +20,8 @@ Follow these steps to get the project running on your local machine:
 ### 1️⃣ Clone the repository
 
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/Ankitkumarrishu/Al-exa_Review.git
 cd Al-exa_Review
-=======
 ```
 
 ### 2️⃣ Create & activate a Conda environment
@@ -66,11 +64,6 @@ http://localhost:5000
 ## 📂 Repository Structure
 
 ```
-<<<<<<< HEAD
-Al-exa_Review/
-=======
-Amazon-Alexa-Reviews/
->>>>>>> 563b6ffdd942035719fc1f3f58e4e307f48bcdd4
 │
 ├── api.py             # Main Flask app
 ├── model.pkl          # Pre-trained sentiment model
@@ -80,7 +73,6 @@ Amazon-Alexa-Reviews/
 └── templates/         # HTML templates for Flask app
 =======
 └── data/              # Dataset (if included)
->>>>>>> 563b6ffdd942035719fc1f3f58e4e307f48bcdd4
 ```
 
 ---
